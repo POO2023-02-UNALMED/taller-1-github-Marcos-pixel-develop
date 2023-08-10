@@ -1,0 +1,1 @@
+No se pudo enviar antes porque la carpeta estaba vacia, pero ahora que añadimos respuestas.txt, entonces se puede hacer el commit. 
